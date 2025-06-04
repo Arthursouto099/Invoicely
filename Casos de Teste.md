@@ -21,7 +21,7 @@ Verificar se o sistema permite cadastrar um novo usuário com dados válidos.
 | Nome             | João da Silva          |
 | Email            | joao@email.com         |
 | Senha            | Senha123               |
-| Confirmar Senha  | Senha321               |
+| Confirmar Senha  | Senha123               |
 
 ### 💡 Resultado Esperado:
 Usuário deve ser cadastrado e redirecionado para a página do seu email para confirmar com um link do webSite com a confirmação inicial com a mensagem "Cadastro realizado com sucesso" logo após ao clicar no link do e-mail enviado. 
