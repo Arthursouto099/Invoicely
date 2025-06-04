@@ -27,7 +27,7 @@ Verificar se o sistema permite cadastrar um novo usuário com dados válidos.
 Usuário deve ser cadastrado e redirecionado para a página do seu email para confirmar com um link do webSite com a confirmação inicial com a mensagem "Cadastro realizado com sucesso" logo após ao clicar no link do e-mail enviado. 
 
 ### 📌 Resultado Obtido:
-Usuário foi cadastrado com sucesso e redirecionado corretamente.
+Usuário foi cadastrado com sucesso e redirecionado de volta ao site corretamente.
 
 ### ✅ Status do Teste:
 - [x] Aprovado
