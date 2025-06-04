@@ -71,7 +71,45 @@ Sistema exibiu mensagem "As senhas não coincidem".
 
 ---
 
+
 ## 🧪 ID: 003
+
+### ✅ Nome do Teste:
+Tentativa de cadastro digitando o e-mail
+
+### 🎯 Descrição:
+Usuário digita o e-mail completo e clica no botão de "Cadastrar"
+
+### 🧰 Pré-requisitos:
+- Usuário em processo de cadastro
+
+### 📝 Procedimentos (Passos para execução do teste):
+1. Acessar a tela de login
+2. Digitar o nome completo
+3. clicar no botão "Cadastrar"
+
+   
+### 🧾 Dados de Entrada:
+| Campo   | Valor de Teste        |
+|---------|------------------------|
+| Email   | joao@email.com         |
+| Senha   |                        |
+
+### 💡 Resultado Esperado:
+É gerado uma tela de mensagem avisando da falta de informação no campo de "Senha" no momento do cadastro 
+
+
+### 📌 Resultado Obtido:
+Usuário é redirecionado para o campo de "Senha" para peenchimento correto da informação para concluir seu processo de cadastro.
+
+### ✅ Status do Teste:
+- [ ] Aprovado
+- [x] Reprovado
+
+---
+
+
+## 🧪 ID: 004
 
 ### ✅ Nome do Teste:
 Login com credenciais válidas
@@ -105,7 +143,7 @@ Usuário autenticado com sucesso e redirecionado.
 
 ---
 
-## 🧪 ID: 004
+## 🧪 ID: 005
 
 ### ✅ Nome do Teste:
 Login com senha incorreta
@@ -139,7 +177,7 @@ Mensagem de erro apresentada corretamente.
 
 ---
 
-## 🧪 ID: 005
+## 🧪 ID: 006
 
 ### ✅ Nome do Teste:
 Criar plano de gastos com dados válidos
@@ -175,7 +213,7 @@ Plano criado e listado corretamente.
 - [ ] Reprovado
 
 ---
-## 🧪 ID: 006
+## 🧪 ID: 007
 
 ### ✅ Nome do Teste:
 Editar plano de gastos com dados válidos
@@ -213,7 +251,7 @@ Plano editado e listado corretamente.
 - [ ] Reprovado
 
 ---
-## 🧪 ID: 007
+## 🧪 ID: 008
 
 ### ✅ Nome do Teste:
 Deletar plano de gastos
@@ -251,7 +289,7 @@ Plano criado e listado corretamente.
 
 ---
 
-## 🧪 ID: 008
+## 🧪 ID: 009
 
 ### ✅ Nome do Teste:
 Criar categoria personalizada em plano existente
@@ -287,7 +325,7 @@ Categoria adicionada corretamente.
 
 ---
 
-## 🧪 ID: 009
+## 🧪 ID: 010
 
 ### ✅ Nome do Teste:
 Editar categoria personalizada em plano existente
@@ -324,7 +362,7 @@ Categoria editada corretamente.
 - [ ] Reprovado
 
 
-## 🧪 ID: 010
+## 🧪 ID: 011
 
 ### ✅ Nome do Teste:
 Deletar categoria personalizada de plano existente
@@ -360,7 +398,7 @@ Categoria excluída corretamente.
 
 
 
-## 🧪 ID: 011
+## 🧪 ID: 012
 
 ### ✅ Nome do Teste:
 Cadastrar despesa associada a plano
@@ -399,7 +437,7 @@ Despesa registrada e exibida corretamente.
 
 ---
 
-## 🧪 ID: 012
+## 🧪 ID: 013
 
 ### ✅ Nome do Teste:
 Editar despesa associada a plano
@@ -437,7 +475,7 @@ Despesa editada e exibida corretamente.
 - [x] Aprovado
 - [ ] Reprovado
 
-## 🧪 ID: 013
+## 🧪 ID: 014
 
 ### ✅ Nome do Teste:
 Deletar despesa associada a plano
