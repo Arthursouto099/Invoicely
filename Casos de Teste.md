@@ -84,8 +84,8 @@ Usuário digita o e-mail completo e clica no botão de "Cadastrar"
 - Usuário em processo de cadastro
 
 ### 📝 Procedimentos (Passos para execução do teste):
-1. Acessar a tela de login
-2. Digitar o nome completo
+1. Acessar a tela de cadastrp
+2. Digitar o email completo
 3. clicar no botão "Cadastrar"
 
    
