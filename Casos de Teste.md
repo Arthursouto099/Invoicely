@@ -75,7 +75,7 @@ Sistema exibiu mensagem "As senhas não coincidem".
 ## 🧪 ID: 003
 
 ### ✅ Nome do Teste:
-Tentativa de cadastro digitando o e-mail
+Tentativa de cadastro digitando o e-mail sem a senha
 
 ### 🎯 Descrição:
 Usuário digita o e-mail completo e clica no botão de "Cadastrar"
